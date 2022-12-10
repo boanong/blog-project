@@ -1,7 +1,7 @@
 # BLOG TEMPLATE
 
 ## AUTHOR
-BOANONG JOSHUA 
+BOANONG JOSHUA
 [@boanong](https://github.com/boanong)
 
 ## OVERVIEW

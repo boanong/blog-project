@@ -1,4 +1,4 @@
-# BLOG TEMPLATE 
+# BLOG TEMPLATE
 
 ## AUTHOR
 BOANONG JOSHUA 
@@ -40,8 +40,8 @@ This is a Blog template. The project was taken as a learning tutorial to help bu
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/boanong/blog-project/issues
+Feel free to check the [issues page](https://github.com/boanong/blog-project/issues)
 
 ## 📝 License (optional)
 
-This project is [W3School](./LICENSE) licensed.
+This project is [W3School](./LICENSE)licensed.
